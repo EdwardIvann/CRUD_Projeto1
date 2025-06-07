@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando SafeSpace...
+start "SafeSpace App" pythonw safespace_app.py
